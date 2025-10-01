@@ -1,3 +1,5 @@
+![Build](https://github.com/Yfarrag/MediaTube/actions/workflows/cpp.yml/badge.svg)
+
 # MediaTube 🎬  
 
 MediaTube is a C++ Object-Oriented Programming project that simulates a multimedia platform for managing audio and video content.  
